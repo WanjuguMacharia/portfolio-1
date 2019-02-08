@@ -35,24 +35,35 @@ h1, h2, h3{
   text-transform: uppercase;
 }
 .about{
-  padding:1%;
+  padding:3%;
   background-color: rgba(255, 255, 255, 0.8);
 }
 .column{
   text-align: justify;
-  float:left;
-  width:50%;
-  padding-right: 10%;
+  width:60%;
+  padding-left: 20%;
+}
+.column h1{
+  text-align: center;
 }
 .contacts{
+  width: 80%;
   display:flex;
-  width: 30%;
-  flex-direction: column;
+  font-size: 10px;
+  justify-content: space-around;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 .contacts img{
-  float: left;
+  width: 60%;
 }
+.social{
+  width: 20%;
+  padding-left: 3%
+}
+
 .projects{
+  clear: both;
   text-align: center;
   display:flex;
   flex-direction: column;
