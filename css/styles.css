@@ -1,17 +1,17 @@
 *{
   font-family: sans-serif;
 }
-
-.about{
-    background-color: grey;
+body{
+    background-color: rgb(169,169,169);
 }
+
 .intro{
     background-image: url('../images/intro.jpeg');
 }
 .intro h1{
   text-align: center;
   text-transform: uppercase;
-  font-size: xx-large
+  font-size: 400%;
 }
 .intro h2{
   text-align: center;
@@ -20,7 +20,7 @@
   width: 20%;
   text-align: center;
   text-transform: uppercase;
-  border: 2px solid white;
+  border: 2px solid black;
   margin-left: 40%;
 }
 .social{
@@ -30,4 +30,21 @@
   width:20%;
   margin-left: 40%;
   margin-right: 40%;
+}
+.about{
+  padding:1%;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.contacts{
+  display:flex;
+  width: 40%;
+  flex-direction: column;
+}
+.contacts img{
+  float: left;
+}
+.projects{
+  padding:1%;
+  margin-top: 1%;
+  background-color: rgba(255, 255, 255, 0.8);
 }
