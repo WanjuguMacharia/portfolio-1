@@ -32,8 +32,7 @@ body{
   font-size: 200%;
 }
 .intro p:hover{
-  color: black;
-  background-color: rgba(255,255,255, 0.5);
+  background-color: black;
 }
 .intro p{
   width: 20%;
@@ -77,6 +76,7 @@ h1, h2, h3{
   justify-content: space-around;
   margin-left: 10%;
   margin-right: 10%;
+  text-align: center;
 }
 .contacts img{
   width: 60%;
