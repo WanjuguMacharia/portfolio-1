@@ -2,7 +2,7 @@
 #### Gives a brief description of myself, my skills and lists all the projects I have done, February 2019.
 #### By **Ian Olago Jaccojwang**
 ## Description
-This is my developer portfolio. It has a section describing my personal life, my interests and my contacts. Below that you can view my projects and browse those as well.
+This is my developer portfolio. It has a section describing my personal life, my interests and my contacts. Below that you can view my projects and browse those as well. link: https://ijaccojwang.github.io/portfolio/
 ## Setup/Installation Requirements
 * You can simply copy the url and run it in any web browser.
 * If you want to suggest any edits, you can fork the repository, then clone it to your device and make edits.
